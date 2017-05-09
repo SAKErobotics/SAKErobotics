@@ -6,3 +6,4 @@ EZGripper software independent of ROS is available at https://github.com/SAKErob
 
 EZGripper software for C# - C Sharp is available at https://github.com/SAKErobotics/ezgripper-csharp
 
+EZGripper software for Universal Robots is available at https://github.com/SAKErobotics/ezgripper-ur
