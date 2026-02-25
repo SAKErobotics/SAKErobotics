@@ -1,5 +1,6 @@
 
 # Updated Feb 2026
+# Unitree G1 DDS Drivers
 https://github.com/SAKErobotics/unitree-dex1-ezgripper-driver
 
 We have developed a DDS based interface that signficantly improves the system level control over the EZGripper.  This new software has a visible 4 state algorithm: static, moving, contacting, grasping which is tuneable and a good place to integrate touch or other sensor input to natively enhance the gripper response.  There is a related configuration file that provides good tuneability of the grippers.  There are 2 DDS interfaces: a generic position and force control and a second interface with rich realtime data from the servo control and servo itself.  
